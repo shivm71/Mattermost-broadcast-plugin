@@ -1,1 +1,1 @@
-Go to root directory and type -  ./install
+Go to root directory and type - `./install` to get zip file..
